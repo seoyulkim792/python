@@ -1,0 +1,2 @@
+ggoocat = input()
+print(ggoocat + "??!")
